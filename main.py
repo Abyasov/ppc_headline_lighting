@@ -9,4 +9,3 @@ free_format_csv_file_path = 'test_data/free_format_file.csv'
 
 data_csv = pd.read_csv(free_format_csv_file_path)
 print(data_csv)
-
